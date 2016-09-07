@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
  */
 public final class TokenHandler {
 
-    static private final String MABO_TOKEN = "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NlcnZpY2VzLmltc2NkLmNvbSIsImF1ZCI6ImE1MDA5ZGFhLTgwM2ItNDU1Zi05YjhmLTljM2JmOTdmYzk4OSIsInN1YiI6Im1hYm8iLCJleHAiOjE0NzEyMjc1OTUsImlhdCI6MTQ3MTE5MTU5NX0.jJh2o1Lq0gGy6qQfYvLa0QiKQOAmOXOnYBubQuQjvOo";
+    static private final String MABO_TOKEN = "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3NlcnZpY2VzLmltc2NkLmNvbSIsImF1ZCI6ImE1MDA5ZGFhLTgwM2ItNDU1Zi05YjhmLTljM2JmOTdmYzk4OSIsInN1YiI6Im1hYm8iLCJleHAiOjE1MDQ4MTg5MjUsImlhdCI6MTQ3MzI4MjkyNX0.YhmM2jQhjqg9xrXXxOh8vH4ZlZ4y3Vrs6yJyL596GN0";
     private final JWTManager jwtManager;
 
 
